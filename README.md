@@ -1,2 +1,2 @@
 This is Utku Özmelioğlu
-Student at the Ege University Computer Engineering
+I am a computer engineering student at Ege university.
